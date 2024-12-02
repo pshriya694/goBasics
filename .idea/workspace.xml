@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdd19237-9c1c-4406-aa65-d1e452af39f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mBi8kCMZUJxAsG3E3Gfc6kqrAt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build main.go.executor": "Run",
+    "Go Build.go build mylearning/Data-Conversion.executor": "Run",
+    "Go Build.go build mylearning/array.executor": "Run",
+    "Go Build.go build mylearning/defer.executor": "Run",
+    "Go Build.go build mylearning/error-handling.executor": "Run",
+    "Go Build.go build mylearning/file.executor": "Run",
+    "Go Build.go build mylearning/for-loops.executor": "Run",
+    "Go Build.go build mylearning/function.executor": "Run",
+    "Go Build.go build mylearning/maps.executor": "Run",
+    "Go Build.go build mylearning/pointers.executor": "Run",
+    "Go Build.go build mylearning/slices.executor": "Run",
+    "Go Build.go build mylearning/strings.executor": "Run",
+    "Go Build.go build mylearning/struct.executor": "Run",
+    "Go Build.go build mylearning/switch.executor": "Run",
+    "Go Build.go build mylearning/url.executor": "Run",
+    "Go Build.go build mylearning/userInput.executor": "Run",
+    "Go Build.go build mylearning/webRequest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shriya.pandey/Desktop/golang",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/shriya.pandey/Desktop/golang/myutil/main.go",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myutil" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/myutils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build mylearning/error-handling">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="GOLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="mylearning" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mylearning/defer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mylearning/defer" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/defer/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mylearning/error-handling" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mylearning/error-handling" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/error-handling/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mylearning/file" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mylearning/file" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/file/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mylearning/url" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mylearning/url" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/url/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mylearning/webRequest" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="mylearning/webRequest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/webRequest/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="GOLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build mylearning/error-handling" />
+        <item itemvalue="Go Build.go build mylearning/url" />
+        <item itemvalue="Go Build.go build mylearning/webRequest" />
+        <item itemvalue="Go Build.go build mylearning/file" />
+        <item itemvalue="Go Build.go build mylearning/defer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdd19237-9c1c-4406-aa65-d1e452af39f0" name="Changes" comment="" />
+      <created>1726556212645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726556212645</updated>
+      <workItem from="1726556213715" duration="410000" />
+      <workItem from="1726556629032" duration="4448000" />
+      <workItem from="1726564042045" duration="2000" />
+      <workItem from="1726564057996" duration="720000" />
+      <workItem from="1726564783568" duration="1141000" />
+      <workItem from="1726565946341" duration="787000" />
+      <workItem from="1726741843641" duration="1832000" />
+      <workItem from="1726744118308" duration="2417000" />
+      <workItem from="1726810538313" duration="6197000" />
+      <workItem from="1726947356086" duration="23709000" />
+      <workItem from="1732863645228" duration="4804000" />
+      <workItem from="1733124016270" duration="7989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/myutil/main.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
